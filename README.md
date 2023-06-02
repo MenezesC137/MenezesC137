@@ -21,7 +21,7 @@ export const AboutMe = {
     colleges: [
         {
             id: 1,
-            name: "Esamc Santos',
+            name: "Esamc Santos",
             course: "Computer Engineering",
             year_graduation: 2025
         }
