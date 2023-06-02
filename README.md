@@ -7,7 +7,7 @@ export const AboutMe = {
     frameworks_and_libs : [
         ReactDOM, Redux, Node, Styled-Components, 
         Rails, Express, Bootstrap, React-Native, 
-        SASS/SCSS, TailwindCSS,
+        SASS/SCSS, TailwindCSS, Google-maps-api
     ],
     databases: [
         SQL, NoSQL  
