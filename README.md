@@ -1,5 +1,29 @@
-### Hello World!
-
-- I'm currently studying Computer Engineering!
-- I'm studying development to become a full stack developer.
--->
+export const AboutMe = {
+    developer_type: 'Full-Stack',
+    codeIn: [
+        Javascript, Ruby,
+        Python
+    ],
+    frameworks_and_libs : [
+        ReactDOM, Redux, Node, Styled-Components, 
+        Rails, Express, Bootstrap, React-Native, 
+        SASS/SCSS, TailwindCSS
+    ],
+    databases: [
+        SQL, NoSQL
+    ],
+    tools: [
+        Git, GitHub, Linux, Vscode, Tmux
+    ],
+    learning: [
+        Angular, Python, Typescript, Next.js
+    ] ,
+    colleges: [
+        {
+            id: 1,
+            name: "Esamc Santos',
+            course: "Computer Engineering",
+            year_graduation: 2025
+        }
+    ]
+}
