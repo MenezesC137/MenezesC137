@@ -1,22 +1,22 @@
+```javascript
 export const AboutMe = {
     developer_type: 'Full-Stack',
     codeIn: [
-        Javascript, Ruby,
-        Python
+        Javascript, Ruby, Python
     ],
     frameworks_and_libs : [
         ReactDOM, Redux, Node, Styled-Components, 
         Rails, Express, Bootstrap, React-Native, 
-        SASS/SCSS, TailwindCSS
+        SASS/SCSS, TailwindCSS,
     ],
     databases: [
-        SQL, NoSQL
+        SQL, NoSQL  
     ],
     tools: [
-        Git, GitHub, Linux, Vscode, Tmux
+        Git, GitHub, Linux, Vscode,  Tmux
     ],
     learning: [
-        Angular, Python, Typescript, Next.js
+        Typescript, Python, Next.js, Angular
     ] ,
     colleges: [
         {
@@ -27,3 +27,4 @@ export const AboutMe = {
         }
     ]
 }
+```
