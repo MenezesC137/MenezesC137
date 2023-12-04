@@ -8,15 +8,16 @@ export const AboutMe = {
         ReactDOM, Redux, Node, Styled-Components, 
         Rails, Express, Bootstrap, React-Native, 
         SASS/SCSS, TailwindCSS, Google-maps-api
+        Typescript, Next.js,
     ],
     databases: [
         SQL, NoSQL  
     ],
     tools: [
-        Git, GitHub, Linux, Vscode,  Tmux
+        Git, GitHub, Linux, Vscode,
     ],
     learning: [
-        Typescript, Python, Next.js, Angular
+         Python, Angular
     ] ,
     colleges: [
         {
