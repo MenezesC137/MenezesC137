@@ -17,7 +17,7 @@ export const AboutMe = {
         Git, GitHub, Linux, Vscode,
     ],
     learning: [
-         Python, Angular
+         Python, Angular, .Net
     ] ,
     colleges: [
         {
